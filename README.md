@@ -1,7 +1,7 @@
 # Capstone-Project-1
 Customer Segmentation
 
-# Customer_Segmentation_Capstone_Project
+# Customer_Segmentation
 
 This is a project which you will learn what is RFM? And how to apply RFM Analysis and Customer Segmentation using K-Means Clustering. Also you will improve your Data Cleaning, Data Visualization and Exploratory Data Analysis capabilities. On the other hand you will create Cohort and Conduct Cohort Analysis. 
 
